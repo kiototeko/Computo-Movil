@@ -1,8 +1,8 @@
-###Cómputo Móvil
-###Profesor: Marduk Perez de Lara
-###Tarea 1
-###Fecha: 22/08/2018
-###Alumno: Julián de Gortari Briseño
+### Cómputo Móvil
+### Profesor: Marduk Perez de Lara
+### Tarea 1
+### Fecha: 22/08/2018
+### Alumno: Julián de Gortari Briseño
 
 El desarrollo de la computación móvil ha ido de forma exponencial, haciendo del campo uno de los más innovadores en general. Algunas de las nuevas tendencias son las siguientes:
 
