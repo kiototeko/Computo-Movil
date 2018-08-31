@@ -7,25 +7,103 @@
 El desarrollo de la computación móvil ha ido de forma exponencial, haciendo del campo uno de los más innovadores en general. Algunas de las nuevas tendencias son las siguientes:
 
 - Conectividad
-  - Aumento en la velocidad de descarga de web apps desde dispositivos móviles
-    - Proyecto AMP de Google que reduce la carga de páginas que soportan la tecnología AMP de Google y beneficia a publicadores con un incremento en visibilidad de anuncios y más visitantes. Referencia: https://www.ampproject.org/learn/about-how/
-  - Apps basadas en la nube
-    - Utilización de recursos de servidores remotos a través del Internet para disminuir el la carga de procesamiento en los dispositivos individuales. Referencia: https://www.infoworld.com/article/2683784/cloud-computing/what-is-cloud-computing.html. Los tipos de servicios que ahora se ofrecen generalmente caen en alguna de las siguientes categorías: 
+  - Apps basadas en la nube: utilización de recursos de servidores remotos a través del Internet para disminuir el la carga de procesamiento en los dispositivos individuales. 
+    - Referencia: https://www.infoworld.com/article/2683784/cloud-computing/what-is-cloud-computing.html. Los tipos de servicios que ahora se ofrecen generalmente caen en alguna de las siguientes categorías: 
+    - Referencia: http://iosrjournals.org/iosr-jce/papers/Vol8-Issue1/C0811422.pdf?id=358
+    - Referencia: https://cloudcomputing.ieee.org/publications/articles
       - SaaS (Software as a service): agrupa a todas las aplicaciones que se acceden por un navegador a través de Internet.
       - IaaS (Infrastructure as a service): identifica a los servicios que ofrecen almacenamiento y servicios de cómputo en un esquema de pago por uso (análisis de big data, herramientas de desarrollador, machine learning).
       - PaaS (Platform as a service): que es más orientado a desarrolladores y provee herramientas compartidas, procesos y APIs para acelerar el desarrollo, pruebas y lanzamiento de las aplicaciones.
       - FaaS (functions as a service): agregan otra capa de abstracción a las Paas, de modo que los desarrolladores quedan completamente aislados de todo aquello debajo de su código.
-  - Internet de las cosas: cosas con las que se puede interactuar vía Internet. Referencia: https://www.zdnet.com/article/what-is-the-internet-of-things-everything-you-need-to-know-about-the-iot-right-now/
-  - Seguridad en apps. Referencia: https://www.arxan.com/resources/technology/mobile-app-security
+    - Proyecto AMP de Google que reduce la carga de páginas que soportan la tecnología AMP de Google y beneficia a publicadores con un incremento en visibilidad de anuncios y más visitantes. 
+      - Referencia: https://www.ampproject.org/learn/about-how/
+  - Internet de las cosas: cosas con las que se puede interactuar vía Internet. 
+    - Referencia: https://www.zdnet.com/article/what-is-the-internet-of-things-everything-you-need-to-know-about-the-iot-right-now/
+    - Referencia: https://www.research.ibm.com/internet-of-things/
+    - Referencia: https://iot.ieee.org/
+    - Wearable technology: dispositivos que se portan como cualquier accesorio de ropa, pero que tienen una capacidad de procesamiento y conectividad. 
+      - Referencia: https://www.wareable.com/wearable-tech/what-is-wearable-tech-753 
+      - Referencia: https://www.businessinsider.com/wearable-technology-iot-devices-2016-8
+    - Faros (iBeacon): objetos que establecen una región geográfica dentro de la cual interactúan con dispositivos móviles que incursionen. 
+      - Referencia: https://developer.apple.com/ibeacon/Getting-Started-with-iBeacon.pdf
+      - Referencia: https://www.aislelabs.com/reports/beacon-guide/
+    - Autos inteligentes
+      - Referencia: https://www.businessinsider.com/internet-of-things-connected-smart-cars-2016-10
+      - Referencia: https://techcrunch.com/2015/10/20/the-cloud-connected-car-drives-iot-monetization/
+      - Referencia: https://www2.deloitte.com/insights/us/en/focus/internet-of-things/iot-in-automotive-industry.html
+    - Casas inteligentes
+      - Referencia: http://psrcentre.org/images/extraimages/14.%201312153.pdf
+      - Referencia: http://www.lse.ac.uk/media%40lse/whosWho/AcademicStaff/LeslieHaddon/EMTELHA.pdf
+    - Ciudades inteligentes
+      - Referencia: https://www.bu.edu/systems/research/sc-research-highlights/
+      - Referencia: http://smartcities.oii.ox.ac.uk/
+  - Infraestructura
+    - Generaciones de comunicaciones inalámbricas para redes celulares
+      - Referencia: https://www.academia.edu/3099956/Generations_of_Wireless_Communication._From_0G_to_5G_Abhi
+      - Referencia: https://www.qualcomm.com/invention/research/projects/5g
+      - Referencia: https://www.gsmaintelligence.com/research/?file=141208-5g.pdf&download
+      - Referencia: http://ijsret.org/pdf/sapana_singh.pdf
+      - Ancho de banda
+        - Referencia: http://acgcc.com/wp-content/uploads/2015/03/Forecast-of-Mobile-Broadband-Bandwidth-Requirements_ACG.pdf
+      - Antenas
+        - Referencia: https://www.researchgate.net/publication/261463144_Mobile_phone_antenna_for_2G_3G_and_4G_standards
+        - Referencia: https://ieeexplore.ieee.org/document/6309152/
+    - Wifi
+      - Referencia: http://airccse.org/journal/ijngn/papers/6314ijngn02.pdf
+      - Referencia: https://homes.cs.washington.edu/~gshyam/Papers/powifi.pdf
+      - Redes de dispositivos inalámbricos
+        - Referencia: http://bwn.ece.gatech.edu/surveys/underground.pdf
+    - Bluetooth
+      - Referencia: https://www.seas.upenn.edu/~swati/challenge_v4.pdf
+      - Referencia: http://airccse.org/journal/ijcseit/papers/0811ijcseit06.pdf
+  - Seguridad
+    - Referencia: https://www.arxan.com/resources/technology/mobile-app-security
+    - Referencia: https://www.cs.rice.edu/~sc40/pubs/enck-sec11.pdf
+    - Referencia: https://thesai.org/Downloads/Volume7No4/Paper_26-A_Survey_on_Security_for_Smartphone_Device.pdf
+    - Referencia: https://www.checkpoint.com/downloads/products/check-point-mobile-security-survey-report.pdf
+- Hardware
+  - Batería
+    - Referencia: https://www.usenix.org/legacy/event/usenix10/tech/full_papers/Carroll.pdf
+    - Referencia: https://www.marketresearch.com/product/sample-8323376.pdf
+    - Referencia: https://www.pcworld.com/article/2031008/mobile-batteries-everything-you-need-to-know.html
+    - Referencia: http://www.ijsrp.org/research-paper-1016/ijsrp-p5831.pdf
+  - Microprocesador
+    - Referencia: https://www.nvidia.com/content/PDF/tegra_white_papers/Benefits-of-Multi-core-CPUs-in-Mobile-Devices_Ver1.2.pdf
+    - Referencia: https://research.ijcaonline.org/volume90/number4/pxc3894339.pdf
 - Funciones especiales
-  - Realidad aumentada: versión realzada de la realidad, donde vistas directas o indirectas del entorno físico real en el cual uno se sitúa, son aumentadas con imágenes sobrepuestas generadas a través de computadora sobre la vista del usuario del mundo real. Referencia: https://www.realitytechnologies.com/augmented-reality/
-  - Realidad virtual: Ofrece una experiencia de inmersión total en un entorno totalmente generado a partir de computadora. Referencia: https://www.theguardian.com/technology/2016/nov/10/virtual-reality-guide-headsets-apps-games-vr
-  - Carteras móviles: guardar información de tarjetas de crédito en el dispositivo móvil. Referencia: https://www.tomsguide.com/us/mobile-wallet-guide,news-20666.html
+  - Realidad aumentada: versión realzada de la realidad, donde vistas directas o indirectas del entorno físico real en el cual uno se sitúa, son aumentadas con imágenes sobrepuestas generadas a través de computadora sobre la vista del usuario del mundo real. 
+    - Referencia: https://www.realitytechnologies.com/augmented-reality/
+    - Referencia: https://www.nrl.navy.mil/itd/imda/research/5581/augmented-reality
+    - Referencia: https://www.cc.gatech.edu/~blair/papers/ARsurveyCGA.pdf
+  - Realidad virtual: Ofrece una experiencia de inmersión total en un entorno totalmente generado a partir de computadora. 
+    - Referencia: https://www.theguardian.com/technology/2016/nov/10/virtual-reality-guide-headsets-apps-games-vr
+    - Referencia: https://www.cg.tuwien.ac.at/research/publications/1996/mazuryk-1996-VRH/TR-186-2-96-06Paper.pdf
+  - Carteras móviles: guardar información de tarjetas de crédito en el dispositivo móvil. 
+    - Referencia: https://www.tomsguide.com/us/mobile-wallet-guide,news-20666.html
+    - Referencia: https://www.gsma.com/digitalcommerce/wp-content/uploads/2012/10/GSMA-Mobile-Wallet-White-Paper-Version-1-0.pdf
 - Inteligencia artificial
-  - Machine learning: mediante la interacción con el usuario, la aplicación aprende y genera resultados cada vez más personalizados. Referencia: https://acodez.in/machine-learning-mobile-apps/
-- Dispositivos especiales
-  - Wearable technology: dispositivos que se portan como cualquier accesorio de ropa, pero que tienen una capacidad de procesamiento y conectividad. Referencia: https://www.wareable.com/wearable-tech/what-is-wearable-tech-753
-  - Faros (iBeacon): objetos que establecen una región geográfica dentro de la cual interactúan con dispositivos móviles que incursionen. Referencia: https://developer.apple.com/ibeacon/Getting-Started-with-iBeacon.pdf
-- Temáticas
-  - Enterprise apps: relegar parte de los procedimientos de una empresa a una app. Referencia: https://developer.apple.com/programs/enterprise/
-
+  - Referencia: https://www.businessinsider.com/ai-smartphones-artificial-intelligence-features-phones-2018-1#lg-6
+  - Referencia: https://www.gsmarena.com/smartphones_artificial_intelligence_and_machine_learning-news-30627.php
+  - Machine learning: mediante la interacción con el usuario, la aplicación aprende y genera resultados cada vez más personalizados. 
+    - Referencia: https://acodez.in/machine-learning-mobile-apps/
+    - Referencia: https://www.androidpit.com/machine-learning-and-ai-on-smartphones
+- Data science
+  - Big Data
+    - Referencia: https://www.technologyreview.com/s/513721/big-data-from-cheap-phones/
+    - Referencia: http://www.cs.ucy.ac.cy/~dzeina/papers/dapd14-bigmobile.pdf
+- Sistemas operativos
+  - Comparación de sistemas
+    - Referencia: http://gauravjindal.yolasite.com/resources/A%20Comparative%20Study%20of%20Mobile%20Phone%E2%80%99s%20Operating%20Systems.pdf
+    - Referencia: https://www.digitaltrends.com/mobile/android-vs-ios/
+    - Referencia: https://www.ijser.org/researchpaper/Mobile-Phone-Operating-Systems-A-Comparison.pdf
+    - Referencia: https://people.apache.org/~xli/papers/itj2012-mobile-os-trends.pdf
+  - Alternativas a los más populares
+    - Referencia: https://www.androidpit.com/alternatives-to-android
+    - Ubuntu Touch
+      - Referencia: https://ubuntu-touch.io/
+    - Tizen
+      - Referencia: https://www.tizen.org/
+    - Sailfish OS
+      - Referencia: https://sailfishos.org/
+    - Lineage OS
+      - Referencia: https://lineageos.org/
